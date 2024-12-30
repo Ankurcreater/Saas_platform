@@ -1,0 +1,20 @@
+Drizzle ORM is used to retreive,store data from PostGresql without writing  any queries.    
+
+About Drizzle: It’s the only ORM with both relational and SQL-like query APIs, providing you the best of both worlds when it comes to accessing your relational data. Drizzle is lightweight, performant, typesafe, non-lactose, gluten-free, sober, flexible and serverless-ready by design. Drizzle is not just a library, it’s an experience. 🤩
+
+in drizzle we use neon PostGresql and needed db_url to get this 
+
+we go to neon console and create new project
+
+
+after that we create drizzle.config.js from drizzle and drizzle-kit setup 
+
+after that we created db.js for database and create schema.js for neon database
+
+after that we set up studio,push in package.json
+studio shows our table type npm run db:studio
+push pushes the changes to table npm run db:push
+
+//Generate Mock Interview Question with AI
+
+
